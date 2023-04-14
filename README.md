@@ -24,7 +24,7 @@
 + [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework6/Homework_6-2_bcgwak.pdf)
 
 ## Homework 7
-+ [About DES](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework7/Simplified DES algorithm.pdf)
++ [About DES](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework7/Simplified%20DES%20algorithm.pdf)
 + [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework7/Homework_7-2_bcgwak.pdf)
 
 ## Exam 1
