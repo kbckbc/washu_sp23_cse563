@@ -3,11 +3,11 @@
 
 ## Homework 1
 + [Instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework1/Homework1.pdf)
-+ [Solution]
++ [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework1/homework1_bcgwak_2nd.pdf)
 
 ## Homework 2
 + [Instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework2/Homework2.pdf)
-+ [Solution]
++ [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework2/homework2_bcgwak.pdf)
 
 ## Team presentation about MVU(Maximum variance unfolding)
 + [Instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/presentation/Course-info.pdf)
