@@ -28,7 +28,7 @@
 + [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework7/Homework_7-2_bcgwak.pdf)
 
 ## Exam 1
-+ [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/exam/CSE463-563 Midterm Exam 1-1_bcgwak.pdf)
++ [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/exam/CSE463-563%20Midterm%20Exam%201-1_bcgwak.pdf)
 
 ## Exam 2
 + [Solution]()
