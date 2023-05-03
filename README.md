@@ -31,8 +31,12 @@
 + [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/exam/CSE463-563%20Midterm%20Exam%201-1_bcgwak.pdf)
 
 ## Exam 2
-+ [Solution]()
++ [Solution](https://github.com/kbckbc/washu_sp23_cse563/blob/main/exam/CSE463-563%20Midterm%20Exam%202-1_bcgwak.pdf)
 
 ## Final project 
-+ [Instruction]()
++ [Instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/Final%20Project%20-%20Simplified%20DES%20algorithm%20CMOS%20chip%20design%20specifications.docx)
++ [Assign #1 - Block diagram](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign1.pdf)
++ [Assign #2 - Schematic](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign2.pdf)
++ [Assign #3 - Layout](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign3.pdf)
++ [Assign #4 - Final report](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign4.pdf)
 
