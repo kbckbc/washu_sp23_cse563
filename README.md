@@ -39,4 +39,4 @@
 + [Assign #2 - Schematic](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign2.pdf)
 + [Assign #3 - Layout](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign3.pdf)
 + [Assign #4 - Final report](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/assign4.pdf)
-
++ [Cadence zip file](https://github.com/kbckbc/washu_sp23_cse563/blob/main/final/Cadence_CSE563.zip)
